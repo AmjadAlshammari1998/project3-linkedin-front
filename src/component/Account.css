@@ -1,0 +1,28 @@
+
+.profile-img{
+    width: 200px;
+    height: 200px;
+}
+.account-page{
+    display: flex;
+    text-align: center;
+
+}
+.account-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    width: 50%;
+    margin: auto;
+    box-shadow: 5px 3px 3px 7px rgba(0, 0, 0, 0.123);
+
+
+}
+.account-container img{
+    margin-top: 22px;
+    border-radius: 50rem;
+    width: 146px;
+    height: 146px;
+}

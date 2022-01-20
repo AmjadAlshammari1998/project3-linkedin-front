@@ -1,0 +1,85 @@
+
+.imgSinUp{
+    background-image: url("https://www.mikegatto4assembly.com/wp-content/uploads/2019/07/linkedin-1.jpg");
+     width:110vh;
+      height: 110vh;
+      border-radius: 50%;
+      margin: auto;
+      background-position: center;
+      background-size: cover;
+      position:center;
+      margin-top: 10px;
+    }
+    
+  .sinUp1{
+    display: flex;
+    justify-content: center;
+  
+  }
+  .sinUp {
+      background-color: rgba(50, 81, 139, 0.575);
+      width: 200px;
+      height: 200px;
+      margin:auto;
+      margin-top: 15%;
+      box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+    -webkit-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+    -moz-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  
+  
+  
+  }
+  .sinUp:hover{
+    transform: scale(1.04);
+  
+  }
+  .input{
+  justify-content: center;
+  display: flex;
+  margin: auto;
+  
+  }
+
+  .loginCaptal{
+    display: flex;
+   justify-content: center;
+ }
+ 
+ .logIn{
+    background-color: rgba(50, 81, 139, 0.575);
+   width: 200px;
+   height: 200px;
+   margin:auto;
+   margin-top: 15%;
+   box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+   -webkit-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+   -moz-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+ }
+ 
+ .input2{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    margin-top: 15%;
+ }
+ #firstSignupInput {
+   margin-top: 10px;
+ }
+  @media (max-width: 900px)
+   {
+     #sinLog{
+        width: 50%;
+        height:  50%;
+     }
+     .sinUp1{
+        display: flex;
+        justify-content: center;
+      
+      }
+     .imgSinUp{
+        width: 2000px;;
+      height:  300px;
+      border-radius: 50%;   
+     }
+  } 
+  

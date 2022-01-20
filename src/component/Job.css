@@ -1,0 +1,39 @@
+.divv{
+    background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  width:50% ;
+  height:50%;
+  margin: 25px auto;
+  box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  -webkit-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  -moz-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  column-count: 2;
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-gap: 43px;
+-webkit-column-gap: 43px;
+-moz-column-gap: 43px;
+
+}
+.divv :hover{
+  transform: scale(1.04);
+
+}
+.addJob{
+  /* background-color: rgba(50, 81, 139, 0.575);
+      width: 200px;
+      height: 200px;
+      margin:auto;
+      margin-top: 15%; */
+      box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+    -webkit-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+    -moz-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63); 
+}
+
+.imgjob{
+  width: 30%;
+  height: 30%;
+}

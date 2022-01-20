@@ -1,0 +1,57 @@
+.div{
+    background-color: rgba(50, 81, 139, 0.575);
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 58px;
+    width: 413px;
+    box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+    -webkit-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+    -moz-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+}
+
+.divv{
+    background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+.imgPost{
+    width: 178px;
+    height: 178px;
+   
+
+}
+.like-icon{
+    margin-top: 100px;
+}
+.buttonAddbost{
+    width: 15%;
+    height: 40px;
+    justify-content: center;
+    display: block;
+    color: #fff;
+    background-color: rgba(50, 81, 139, 0.575);
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    transition: .2s ease-in;
+    cursor: pointer;
+    margin: 57px;
+    box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+    -webkit-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+    -moz-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+
+}
+/* .textimg{
+
+} */
+@media only screen and (max-width: 900px) {
+    #Home {
+        grid-template-columns: 1fr ;
+        background-color: #E6E8E9;
+    }
+  }

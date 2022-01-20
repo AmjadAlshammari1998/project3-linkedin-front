@@ -1,0 +1,44 @@
+.about1{
+    background-color: rgba(50, 81, 139, 0.301);
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    margin-top: 5%;
+    box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  -webkit-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  -moz-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+}
+
+.about2{
+    background-color: rgba(50, 81, 139, 0.301);
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    margin-top: 5%;
+    box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  -webkit-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  -moz-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);}
+
+.about3{
+    background-color: rgba(50, 81, 139, 0.301);
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    margin-top: 5%;
+    box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  -webkit-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  -moz-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+}
+
+.about4{
+    background-color: rgba(50, 81, 139, 0.301);
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    margin-top: 5%;
+    display:grid;
+    box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  -webkit-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+  -moz-box-shadow: -15px 1px 29px 5px rgba(34,34,38,0.63);
+    }
+
